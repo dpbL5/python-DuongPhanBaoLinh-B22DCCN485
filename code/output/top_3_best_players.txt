@@ -1,0 +1,867 @@
+Top 3 best PLAYERS IN EACH CATEGORY:
+
+Top 3 players in games:
+1. Andersen Joachim                                   : 38
+2. Diaby Moussa                                       : 38
+3. Janelt Vitaly                                      : 38
+
+Top 3 players in games_starts:
+1. Andersen Joachim                                   : 38
+2. Kaminski Thomas                                    : 38
+3. Kilman Max                                         : 38
+
+Top 3 players in minutes:
+1. Kilman Max                                         : 3420
+2. Leno Bernd                                         : 3420
+3. Onana André                                        : 3420
+
+Top 3 players in minutes_90s:
+1. Kilman Max                                         : 38.0
+2. Leno Bernd                                         : 38.0
+3. Onana André                                        : 38.0
+
+Top 3 players in goals:
+1. Haaland Erling                                     : 27
+2. Isak Alexander                                     : 21
+3. Foden Phil                                         : 19
+
+Top 3 players in assists:
+1. Watkins Ollie                                      : 13
+2. De Bruyne Kevin                                    : 10
+3. Gibbs-White Morgan                                 : 10
+
+Top 3 players in goals_assists:
+1. Haaland Erling                                     : 32
+2. Watkins Ollie                                      : 32
+3. Salah Mohamed                                      : 28
+
+Top 3 players in goals_pens:
+1. Haaland Erling                                     : 20
+2. Foden Phil                                         : 19
+3. Watkins Ollie                                      : 19
+
+Top 3 players in pens_made:
+1. Haaland Erling                                     : 7
+2. Saka Bukayo                                        : 6
+3. Isak Alexander                                     : 5
+
+Top 3 players in pens_att:
+1. Haaland Erling                                     : 8
+2. Salah Mohamed                                      : 7
+3. Isak Alexander                                     : 6
+
+Top 3 players in cards_yellow:
+1. Palhinha João                                      : 13
+2. Senesi Marcos                                      : 13
+3. Gordon Anthony                                     : 12
+
+Top 3 players in cards_red:
+1. Bissouma Yves                                      : 2
+2. James Reece                                        : 2
+3. McBurnie Oliver                                    : 2
+
+Top 3 players in xg:
+1. Haaland Erling                                     : 29.2
+2. Salah Mohamed                                      : 21.2
+3. Isak Alexander                                     : 20.3
+
+Top 3 players in npxg:
+1. Haaland Erling                                     : 22.9
+2. Jackson Nicolas                                    : 18.6
+3. Solanke Dominic                                    : 17.2
+
+Top 3 players in xg_assist:
+1. Fernandes Bruno                                    : 11.8
+2. Heung-min Son                                      : 11.8
+3. Salah Mohamed                                      : 11.8
+
+Top 3 players in npxg_xg_assist:
+1. Salah Mohamed                                      : 27.3
+2. Haaland Erling                                     : 27.2
+3. Watkins Ollie                                      : 24.2
+
+Top 3 players in progressive_carries:
+1. Doku Jeremy                                        : 218
+2. Garnacho Alejandro                                 : 178
+3. Saka Bukayo                                        : 155
+
+Top 3 players in progressive_passes:
+1. Rodri                                              : 376
+2. Ødegaard Martin                                    : 344
+3. Groß Pascal                                        : 302
+
+Top 3 players in progressive_passes_received:
+1. Saka Bukayo                                        : 508
+2. Kulusevski Dejan                                   : 388
+3. Martinelli Gabriel                                 : 345
+
+Top 3 players in goals_per90:
+1. Kalajdzic Sasa                                     : 1.08
+2. Durán Jhon                                         : 0.95
+3. Haaland Erling                                     : 0.95
+
+Top 3 players in assists_per90:
+1. Solomon Manor                                      : 0.9
+2. Perišić Ivan                                       : 0.87
+3. De Bruyne Kevin                                    : 0.74
+
+Top 3 players in goals_assists_per90:
+1. Traoré Adama                                       : 1.19
+2. Haaland Erling                                     : 1.13
+3. Olise Michael                                      : 1.13
+
+Top 3 players in goals_pens_per90:
+1. Kalajdzic Sasa                                     : 1.08
+2. Durán Jhon                                         : 0.95
+3. Moore Kieffer                                      : 0.83
+
+Top 3 players in goals_assists_pens_per90:
+1. Traoré Adama                                       : 1.19
+2. Ünal Enes                                          : 1.1
+3. Kalajdzic Sasa                                     : 1.08
+
+Top 3 players in xg_per90:
+1. Moore Kieffer                                      : 1.23
+2. Maupay Neal                                        : 1.16
+3. Haaland Erling                                     : 1.03
+
+Top 3 players in xg_assist_per90:
+1. De Bruyne Kevin                                    : 0.85
+2. Perišić Ivan                                       : 0.75
+3. Kalajdzic Sasa                                     : 0.52
+
+Top 3 players in xg_xg_assist_per90:
+1. Moore Kieffer                                      : 1.44
+2. Maupay Neal                                        : 1.22
+3. Haaland Erling                                     : 1.18
+
+Top 3 players in npxg_per90:
+1. Moore Kieffer                                      : 1.23
+2. Maupay Neal                                        : 1.16
+3. Haaland Erling                                     : 0.81
+
+Top 3 players in npxg_xg_assist_per90:
+1. Moore Kieffer                                      : 1.44
+2. Maupay Neal                                        : 1.22
+3. Kalajdzic Sasa                                     : 1.09
+
+Top 3 players in gk_games:
+1. Grbić Ivo                                          : 9
+2. Ortega Stefan                                      : 9
+3. Ramsdale Aaron                                     : 6
+
+Top 3 players in gk_games_starts:
+1. Grbić Ivo                                          : 9
+2. Fabiański Łukasz                                   : 7
+3. Ramsdale Aaron                                     : 6
+
+Top 3 players in gk_minutes:
+1. Kelleher Caoimhín                                  : 900
+2. Muric Arijanet                                     : 900
+3. Karius Loris                                       : 90
+
+Top 3 players in gk_goals_against:
+1. Kaminski Thomas                                    : 85
+2. Foderingham Wes                                    : 79
+3. Bentley Daniel                                     : 7
+
+Top 3 players in gk_goals_against_per90:
+1. Karius Loris                                       : 4.00
+2. Radu Ionuț                                         : 3.50
+3. Grbić Ivo                                          : 2.92
+
+Top 3 players in gk_shots_on_target_against:
+1. Verbruggen Bart                                    : 91
+2. Henderson Dean                                     : 86
+3. Ederson                                            : 82
+
+Top 3 players in gk_saves:
+1. Martínez Emiliano                                  : 95
+2. Ramsdale Aaron                                     : 9
+3. Dúbravka Martin                                    : 87
+
+Top 3 players in gk_save_pct:
+1. Muric Arijanet                                     : 80.8
+2. Travers Mark                                       : 77.8
+3. Strakosha Thomas                                   : 75.0
+
+Top 3 players in gk_wins:
+1. Dúbravka Martin                                    : 9
+2. Pope Nick                                          : 9
+3. Henderson Dean                                     : 8
+
+Top 3 players in gk_ties:
+1. Areola Alphonse                                    : 9
+2. Flekken Mark                                       : 9
+3. Neto                                               : 9
+
+Top 3 players in gk_losses:
+1. Dúbravka Martin                                    : 9
+2. Johnstone Sam                                      : 9
+3. Sels Matz                                          : 8
+
+Top 3 players in gk_clean_sheets:
+1. Onana André                                        : 9
+2. Alisson                                            : 8
+3. Martínez Emiliano                                  : 8
+
+Top 3 players in gk_clean_sheets_pct:
+1. Trafford James                                     : 7.1
+2. Ortega Stefan                                      : 60.0
+3. Sels Matz                                          : 6.3
+
+Top 3 players in gk_pens_att:
+1. Leno Bernd                                         : 8
+2. Pickford Jordan                                    : 8
+3. Sá José                                            : 8
+
+Top 3 players in gk_pens_allowed:
+1. Leno Bernd                                         : 8
+2. Pickford Jordan                                    : 8
+3. Sá José                                            : 8
+
+Top 3 players in gk_pens_saved:
+1. Areola Alphonse                                    : 2
+2. Dúbravka Martin                                    : 1
+3. Muric Arijanet                                     : 1
+
+Top 3 players in gk_pens_missed:
+1. Foderingham Wes                                    : 1
+2. Grbić Ivo                                          : 1
+3. Petrović Đorđe                                     : 1
+
+Top 3 players in gk_pens_save_pct:
+1. Muric Arijanet                                     : 50.0
+2. Raya David                                         : 33.3
+3. Sánchez Robert                                     : 33.3
+
+Top 3 players in shots:
+1. Haaland Erling                                     : 113
+2. Núñez Darwin                                       : 107
+3. Salah Mohamed                                      : 107
+
+Top 3 players in shots_on_target:
+1. Haaland Erling                                     : 50
+2. Foden Phil                                         : 48
+3. Salah Mohamed                                      : 47
+
+Top 3 players in shots_on_target_pct:
+1. Aina Ola                                           : 9.1
+2. Ruddock Mpanzu Pelly                               : 9.1
+3. Traoré Boubacar                                    : 9.1
+
+Top 3 players in shots_per90:
+1. Ünal Enes                                          : 6.31
+2. Enciso Julio                                       : 5.31
+3. Moore Kieffer                                      : 5.0
+
+Top 3 players in shots_on_target_per90:
+1. Maupay Neal                                        : 3.24
+2. Ritchie Matt                                       : 2.81
+3. Ünal Enes                                          : 2.2
+
+Top 3 players in goals_per_shot:
+1. Mejbri Hannibal                                    : 1.00
+2. Ream Tim                                           : 1.00
+3. Baptiste Shandon                                   : 0.50
+
+Top 3 players in goals_per_shot_on_target:
+1. Aina Ola                                           : 1.00
+2. Bassey Calvin                                      : 1.00
+3. Bobb Oscar                                         : 1.00
+
+Top 3 players in average_shot_distance:
+1. Ajer Kristoffer                                    : 9.9
+2. Collins Nathan                                     : 9.9
+3. Gomes Toti                                         : 9.9
+
+Top 3 players in shots_free_kicks:
+1. Ward-Prowse James                                  : 16
+2. Álvarez Julián                                     : 13
+3. Eze Eberechi                                       : 12
+
+Top 3 players in npxg_per_shot:
+1. Ream Tim                                           : 0.96
+2. Baptiste Shandon                                   : 0.45
+3. Dendoncker Leander                                 : 0.37
+
+Top 3 players in xg_net:
+1. Foden Phil                                         : 8.7
+2. Hudson-Odoi Callum                                 : 5.3
+3. Mateta Jean-Philippe                               : 5.1
+
+Top 3 players in npxg_net:
+1. Foden Phil                                         : 8.7
+2. Hudson-Odoi Callum                                 : 5.3
+3. Jota Diogo                                         : 4.7
+
+Top 3 players in passes_completed:
+1. Rodri                                              : 3365
+2. Dunk Lewis                                         : 2977
+3. Groß Pascal                                        : 2774
+
+Top 3 players in passes:
+1. Rodri                                              : 3656
+2. Dunk Lewis                                         : 3233
+3. Groß Pascal                                        : 3223
+
+Top 3 players in passes_pct:
+1. Silva Thiago                                       : 94.7
+2. Ozoh David                                         : 94.1
+3. Kovačić Mateo                                      : 94.0
+
+Top 3 players in passes_total_distance:
+1. Rodri                                              : 57256
+2. Dunk Lewis                                         : 50791
+3. van Dijk Virgil                                    : 49290
+
+Top 3 players in passes_progressive_distance:
+1. Pickford Jordan                                    : 26388
+2. Flekken Mark                                       : 22385
+3. Kaminski Thomas                                    : 22188
+
+Top 3 players in passes_completed_short:
+1. Rodri                                              : 1676
+2. Groß Pascal                                        : 1583
+3. Dunk Lewis                                         : 1343
+
+Top 3 players in passes_short:
+1. Rodri                                              : 1774
+2. Groß Pascal                                        : 1674
+3. Dunk Lewis                                         : 1382
+
+Top 3 players in passes_pct_short:
+1. Bentley Daniel                                     : 100.0
+2. Fabiański Łukasz                                   : 100.0
+3. Grbić Ivo                                          : 100.0
+
+Top 3 players in passes_completed_medium:
+1. van Dijk Virgil                                    : 1343
+2. Dunk Lewis                                         : 1340
+3. Saliba William                                     : 1298
+
+Top 3 players in passes_medium:
+1. Dunk Lewis                                         : 1417
+2. van Dijk Virgil                                    : 1412
+3. Saliba William                                     : 1373
+
+Top 3 players in passes_pct_medium:
+1. Bentley Daniel                                     : 100.0
+2. Chiwome Leon                                       : 100.0
+3. Fabiański Łukasz                                   : 100.0
+
+Top 3 players in passes_completed_long:
+1. Pickford Jordan                                    : 461
+2. Flekken Mark                                       : 394
+3. Kaminski Thomas                                    : 362
+
+Top 3 players in passes_long:
+1. Pickford Jordan                                    : 1031
+2. Kaminski Thomas                                    : 937
+3. Flekken Mark                                       : 832
+
+Top 3 players in passes_pct_long:
+1. Mateta Jean-Philippe                               : 92.9
+2. Højlund Rasmus                                     : 91.7
+3. Fati Ansu                                          : 90.9
+
+Top 3 players in pass_xa:
+1. Ødegaard Martin                                    : 11.2
+2. Saka Bukayo                                        : 11.0
+3. Fernandes Bruno                                    : 10.2
+
+Top 3 players in xg_assist_net:
+1. Watkins Ollie                                      : 5.7
+2. Rodri                                              : 5.1
+3. Neto Pedro                                         : 4.6
+
+Top 3 players in assisted_shots:
+1. Fernandes Bruno                                    : 114
+2. Groß Pascal                                        : 103
+3. Ødegaard Martin                                    : 102
+
+Top 3 players in passes_into_final_third:
+1. Rodri                                              : 378
+2. Groß Pascal                                        : 242
+3. Rice Declan                                        : 240
+
+Top 3 players in passes_into_penalty_area:
+1. Ødegaard Martin                                    : 130
+2. Fernandes Bruno                                    : 89
+3. Groß Pascal                                        : 73
+
+Top 3 players in crosses_into_penalty_area:
+1. Groß Pascal                                        : 27
+2. Robinson Antonee                                   : 26
+3. Doughty Alfie                                      : 24
+
+Top 3 players in passes_live:
+1. Rodri                                              : 3572
+2. Dunk Lewis                                         : 3005
+3. Groß Pascal                                        : 2903
+
+Top 3 players in passes_dead:
+1. Pickford Jordan                                    : 496
+2. Kaminski Thomas                                    : 493
+3. Doughty Alfie                                      : 489
+
+Top 3 players in passes_free_kicks:
+1. Pickford Jordan                                    : 223
+2. Flekken Mark                                       : 166
+3. Kaminski Thomas                                    : 152
+
+Top 3 players in through_balls:
+1. Ødegaard Martin                                    : 39
+2. Fernandes Bruno                                    : 30
+3. Paquetá Lucas                                      : 30
+
+Top 3 players in passes_switches:
+1. Schär Fabian                                       : 41
+2. Rodri                                              : 36
+3. Alexander-Arnold Trent                             : 32
+
+Top 3 players in crosses:
+1. Doughty Alfie                                      : 340
+2. Groß Pascal                                        : 238
+3. McNeil Dwight                                      : 229
+
+Top 3 players in throw_ins:
+1. Mitchell Tyrick                                    : 347
+2. Coufal Vladimír                                    : 319
+3. Porro Pedro                                        : 295
+
+Top 3 players in corner_kicks:
+1. Doughty Alfie                                      : 151
+2. Fernandes Bruno                                    : 151
+3. Pereira Andreas                                    : 148
+
+Top 3 players in corner_kicks_in:
+1. Saka Bukayo                                        : 99
+2. Cook Lewis                                         : 81
+3. Doughty Alfie                                      : 66
+
+Top 3 players in corner_kicks_out:
+1. Doughty Alfie                                      : 80
+2. Pereira Andreas                                    : 74
+3. Groß Pascal                                        : 57
+
+Top 3 players in corner_kicks_straight:
+1. Sarabia Pablo                                      : 10
+2. Fernandes Bruno                                    : 8
+3. Trippier Kieran                                    : 8
+
+Top 3 players in passes_offsides:
+1. Fernandes Bruno                                    : 23
+2. Fernández Enzo                                     : 17
+3. Ødegaard Martin                                    : 16
+
+Top 3 players in passes_blocked:
+1. Mitchell Tyrick                                    : 70
+2. Porro Pedro                                        : 68
+3. Robinson Antonee                                   : 68
+
+Top 3 players in sca:
+1. Ødegaard Martin                                    : 220
+2. Fernandes Bruno                                    : 210
+3. Saka Bukayo                                        : 188
+
+Top 3 players in sca_per90:
+1. Solomon Manor                                      : 8.59
+2. De Bruyne Kevin                                    : 7.36
+3. Perišić Ivan                                       : 6.99
+
+Top 3 players in sca_passes_live:
+1. Ødegaard Martin                                    : 178
+2. Fernandes Bruno                                    : 143
+3. Saka Bukayo                                        : 137
+
+Top 3 players in sca_passes_dead:
+1. Groß Pascal                                        : 54
+2. Ward-Prowse James                                  : 51
+3. Fernandes Bruno                                    : 48
+
+Top 3 players in sca_take_ons:
+1. Kudus Mohammed                                     : 25
+2. Jackson Nicolas                                    : 18
+3. Doku Jeremy                                        : 17
+
+Top 3 players in sca_shots:
+1. Salah Mohamed                                      : 21
+2. Watkins Ollie                                      : 18
+3. Díaz Luis                                          : 15
+
+Top 3 players in sca_fouled:
+1. Gordon Anthony                                     : 13
+2. Ayew Jordan                                        : 12
+3. Garnacho Alejandro                                 : 12
+
+Top 3 players in sca_defense:
+1. Gallagher Conor                                    : 6
+2. Gana Gueye Idrissa                                 : 6
+3. Guimarães Bruno                                    : 6
+
+Top 3 players in gca:
+1. Gordon Anthony                                     : 29
+2. Watkins Ollie                                      : 26
+3. Rodri                                              : 23
+
+Top 3 players in gca_per90:
+1. Bobb Oscar                                         : 1.79
+2. Perišić Ivan                                       : 1.75
+3. Chukwuemeka Carney                                 : 1.59
+
+Top 3 players in gca_passes_live:
+1. Ødegaard Martin                                    : 18
+2. Rodri                                              : 17
+3. Foden Phil                                         : 16
+
+Top 3 players in gca_passes_dead:
+1. Ward-Prowse James                                  : 7
+2. Doughty Alfie                                      : 5
+3. Gallagher Conor                                    : 5
+
+Top 3 players in gca_take_ons:
+1. Gordon Anthony                                     : 5
+2. Groß Pascal                                        : 4
+3. Guimarães Bruno                                    : 4
+
+Top 3 players in gca_shots:
+1. Watkins Ollie                                      : 7
+2. Gordon Anthony                                     : 4
+3. Adebayo Elijah                                     : 3
+
+Top 3 players in gca_fouled:
+1. Gordon Anthony                                     : 5
+2. Ogbene Chiedozie                                   : 4
+3. Aït-Nouri Rayan                                    : 3
+
+Top 3 players in gca_defense:
+1. Antony                                             : 2
+2. Garner James                                       : 2
+3. Adingra Simon                                      : 1
+
+Top 3 players in tackles:
+1. Palhinha João                                      : 152
+2. Gomes João                                         : 128
+3. Souza Vinicius                                     : 125
+
+Top 3 players in tackles_won:
+1. Souza Vinicius                                     : 76
+2. Palhinha João                                      : 75
+3. Gomes João                                         : 74
+
+Top 3 players in tackles_def_3rd:
+1. Palhinha João                                      : 80
+2. Mitchell Tyrick                                    : 75
+3. Gomes João                                         : 67
+
+Top 3 players in tackles_mid_3rd:
+1. Palhinha João                                      : 60
+2. Souza Vinicius                                     : 51
+3. Mac Allister Alexis                                : 50
+
+Top 3 players in tackles_att_3rd:
+1. Kulusevski Dejan                                   : 23
+2. Saka Bukayo                                        : 20
+3. Christie Ryan                                      : 17
+
+Top 3 players in challenge_tackles:
+1. Palhinha João                                      : 103
+2. Porro Pedro                                        : 62
+3. Mac Allister Alexis                                : 59
+
+Top 3 players in challenges:
+1. Palhinha João                                      : 152
+2. Mac Allister Alexis                                : 125
+3. Porro Pedro                                        : 120
+
+Top 3 players in challenge_tackles_pct:
+1. Fati Ansu                                          : 9.1
+2. Tavares Nuno                                       : 88.9
+3. Henry Rico                                         : 85.7
+
+Top 3 players in challenges_lost:
+1. Jensen Mathias                                     : 69
+2. Mac Allister Alexis                                : 66
+3. Alexander-Arnold Trent                             : 60
+
+Top 3 players in blocks:
+1. Tarkowski James                                    : 82
+2. Casemiro                                           : 74
+3. Mac Allister Alexis                                : 65
+
+Top 3 players in blocked_shots:
+1. Tarkowski James                                    : 56
+2. Dawson Craig                                       : 39
+3. Schär Fabian                                       : 38
+
+Top 3 players in blocked_passes:
+1. Mac Allister Alexis                                : 57
+2. Mitchell Tyrick                                    : 53
+3. Palhinha João                                      : 48
+
+Top 3 players in interceptions:
+1. Robinson Antonee                                   : 80
+2. Cook Lewis                                         : 65
+3. Mengi Teden                                        : 57
+
+Top 3 players in tackles_interceptions:
+1. Palhinha João                                      : 198
+2. Robinson Antonee                                   : 173
+3. Souza Vinicius                                     : 157
+
+Top 3 players in clearances:
+1. Andersen Joachim                                   : 207
+2. Tarkowski James                                    : 191
+3. Murillo                                            : 188
+
+Top 3 players in errors:
+1. Foderingham Wes                                    : 6
+2. Alexander-Arnold Trent                             : 5
+3. Raya David                                         : 5
+
+Top 3 players in touches:
+1. Rodri                                              : 3988
+2. Groß Pascal                                        : 3534
+3. Dunk Lewis                                         : 3481
+
+Top 3 players in touches_def_pen_area:
+1. Leno Bernd                                         : 1275
+2. Flekken Mark                                       : 1268
+3. Vicario Guglielmo                                  : 1252
+
+Top 3 players in touches_def_3rd:
+1. Dunk Lewis                                         : 1811
+2. Vicario Guglielmo                                  : 1664
+3. Leno Bernd                                         : 1645
+
+Top 3 players in touches_mid_3rd:
+1. Rodri                                              : 2337
+2. van Dijk Virgil                                    : 1757
+3. Saliba William                                     : 1720
+
+Top 3 players in touches_att_3rd:
+1. Saka Bukayo                                        : 1310
+2. Foden Phil                                         : 1211
+3. Ødegaard Martin                                    : 1173
+
+Top 3 players in touches_att_pen_area:
+1. Saka Bukayo                                        : 271
+2. Garnacho Alejandro                                 : 248
+3. Salah Mohamed                                      : 241
+
+Top 3 players in touches_live_ball:
+1. Rodri                                              : 3988
+2. Groß Pascal                                        : 3533
+3. Dunk Lewis                                         : 3481
+
+Top 3 players in take_ons:
+1. Kudus Mohammed                                     : 221
+2. Doku Jeremy                                        : 169
+3. Cunha Matheus                                      : 140
+
+Top 3 players in take_ons_won:
+1. Kudus Mohammed                                     : 124
+2. Doku Jeremy                                        : 87
+3. Guimarães Bruno                                    : 72
+
+Top 3 players in take_ons_won_pct:
+1. Veltman Joël                                       : 9.1
+2. Ream Tim                                           : 85.7
+3. Ajer Kristoffer                                    : 83.3
+
+Top 3 players in take_ons_tackled:
+1. Kudus Mohammed                                     : 77
+2. Sterling Raheem                                    : 70
+3. Kulusevski Dejan                                   : 66
+
+Top 3 players in take_ons_tackled_pct:
+1. Nelson Reiss                                       : 85.7
+2. Chukwuemeka Carney                                 : 83.3
+3. Brewster Rhian                                     : 80.0
+
+Top 3 players in carries:
+1. Rodri                                              : 2513
+2. Dunk Lewis                                         : 2417
+3. Groß Pascal                                        : 2284
+
+Top 3 players in carries_distance:
+1. Rodri                                              : 11575
+2. Dias Rúben                                         : 10862
+3. Dunk Lewis                                         : 10752
+
+Top 3 players in carries_progressive_distance:
+1. Dias Rúben                                         : 6693
+2. Rodri                                              : 6408
+3. Hecke Jan Paul                                     : 6274
+
+Top 3 players in carries_into_final_third:
+1. Rodri                                              : 88
+2. Garnacho Alejandro                                 : 83
+3. Ødegaard Martin                                    : 83
+
+Top 3 players in carries_into_penalty_area:
+1. Doku Jeremy                                        : 147
+2. Garnacho Alejandro                                 : 102
+3. Kulusevski Dejan                                   : 82
+
+Top 3 players in miscontrols:
+1. Solanke Dominic                                    : 136
+2. Mateta Jean-Philippe                               : 89
+3. Jackson Nicolas                                    : 87
+
+Top 3 players in dispossessed:
+1. Kudus Mohammed                                     : 93
+2. Paquetá Lucas                                      : 81
+3. Solanke Dominic                                    : 81
+
+Top 3 players in passes_received:
+1. Rodri                                              : 3242
+2. Groß Pascal                                        : 2736
+3. Dunk Lewis                                         : 2681
+
+Top 3 players in minutes_per_game:
+1. Alisson                                            : 90
+2. Andersen Joachim                                   : 90
+3. Henderson Dean                                     : 90
+
+Top 3 players in minutes_pct:
+1. Kilman Max                                         : 100.0
+2. Leno Bernd                                         : 100.0
+3. Onana André                                        : 100.0
+
+Top 3 players in minutes_per_start:
+1. Adams Tyler                                        : 90
+2. Adarabioyo Tosin                                   : 90
+3. Alisson                                            : 90
+
+Top 3 players in games_complete:
+1. Kilman Max                                         : 38
+2. Leno Bernd                                         : 38
+3. Onana André                                        : 38
+
+Top 3 players in games_subs:
+1. Højbjerg Pierre                                    : 28
+2. Elliott Harvey                                     : 23
+3. Woodrow Cauley                                     : 22
+
+Top 3 players in minutes_per_sub:
+1. Tsimikas Kostas                                    : 9
+2. Ugochukwu Lesley                                   : 9
+3. Kouyaté Cheikhou                                   : 8
+
+Top 3 players in unused_subs:
+1. Bentley Daniel                                     : 33
+2. Strakosha Thomas                                   : 32
+3. Ramsdale Aaron                                     : 31
+
+Top 3 players in points_per_game:
+1. Partey Thomas                                      : 2.71
+2. De Bruyne Kevin                                    : 2.67
+3. Ramsdale Aaron                                     : 2.67
+
+Top 3 players in on_goals_for:
+1. Saliba William                                     : 91
+2. Rodri                                              : 87
+3. Rice Declan                                        : 84
+
+Top 3 players in on_goals_against:
+1. Ahmedhodžić Anel                                   : 89
+2. Kaminski Thomas                                    : 85
+3. Hamer Gustavo                                      : 83
+
+Top 3 players in plus_minus:
+1. Saliba William                                     : 62
+2. Rodri                                              : 61
+3. Ødegaard Martin                                    : 58
+
+Top 3 players in plus_minus_per90:
+1. Nelson Reiss                                       : 3.02
+2. Kiwior Jakub                                       : 2.95
+3. Vieira Fabio                                       : 2.73
+
+Top 3 players in plus_minus_wowy:
+1. Karius Loris                                       : -3.70
+2. Dier Eric                                          : -3.69
+3. Gil Bryan                                          : -3.57
+
+Top 3 players in on_xg_for:
+1. van Dijk Virgil                                    : 82.1
+2. Saliba William                                     : 76.1
+3. Guimarães Bruno                                    : 74.0
+
+Top 3 players in on_xg_against:
+1. Kaminski Thomas                                    : 77.6
+2. Onana André                                        : 68.9
+3. Kilman Max                                         : 67.7
+
+Top 3 players in xg_plus_minus:
+1. Saliba William                                     : 48.2
+2. Rice Declan                                        : 45.1
+3. Ødegaard Martin                                    : 43.7
+
+Top 3 players in xg_plus_minus_per90:
+1. Vieira Fabio                                       : 1.94
+2. Bobb Oscar                                         : 1.86
+3. Kiwior Jakub                                       : 1.85
+
+Top 3 players in xg_plus_minus_wowy:
+1. Casemiro                                           : 0.00
+2. Chalobah Trevoh                                    : 0.00
+3. Cunha Matheus                                      : 0.00
+
+Top 3 players in cards_yellow_red:
+1. McBurnie Oliver                                    : 2
+2. Aguerd Nayef                                       : 1
+3. Ahamada Naouirou                                   : 1
+
+Top 3 players in fouls:
+1. Gallagher Conor                                    : 83
+2. Gomes João                                         : 66
+3. Díaz Luis                                          : 54
+
+Top 3 players in fouled:
+1. Guimarães Bruno                                    : 108
+2. Ayew Jordan                                        : 94
+3. Kudus Mohammed                                     : 75
+
+Top 3 players in offsides:
+1. Núñez Darwin                                       : 33
+2. Jackson Nicolas                                    : 28
+3. Calvert-Lewin Dominic                              : 24
+
+Top 3 players in pens_won:
+1. Gordon Anthony                                     : 6
+2. Sterling Raheem                                    : 3
+3. Doku Jeremy                                        : 2
+
+Top 3 players in pens_conceded:
+1. Diop Issa                                          : 3
+2. Areola Alphonse                                    : 2
+3. Assignon Lorenz                                    : 2
+
+Top 3 players in own_goals:
+1. Hashioka Daiki                                     : 2
+2. Martínez Emiliano                                  : 2
+3. Mavropanos Konstantinos                            : 2
+
+Top 3 players in ball_recoveries:
+1. Guimarães Bruno                                    : 237
+2. Rodri                                              : 235
+3. Christie Ryan                                      : 231
+
+Top 3 players in aerials_won:
+1. Tarkowski James                                    : 140
+2. van Dijk Virgil                                    : 140
+3. Calvert-Lewin Dominic                              : 137
+
+Top 3 players in aerials_lost:
+1. Morris Carlton                                     : 169
+2. Calvert-Lewin Dominic                              : 144
+3. Solanke Dominic                                    : 135
+
+Top 3 players in aerials_won_pct:
+1. Vicario Guglielmo                                  : 95.5
+2. Areola Alphonse                                    : 90.9
+3. Flekken Mark                                       : 90.9
+

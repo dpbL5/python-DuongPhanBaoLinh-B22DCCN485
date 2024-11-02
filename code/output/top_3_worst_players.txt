@@ -1,0 +1,867 @@
+Top 3 worst PLAYERS IN EACH CATEGORY:
+
+Top 3 players in games:
+1. Karius Loris                                       : 1
+2. Maupay Neal                                        : 2
+3. Radu Ionuț                                         : 2
+
+Top 3 players in games_starts:
+1. Ahamada Naouirou                                   : 0
+2. Moore Kieffer                                      : 0
+3. Ozoh David                                         : 0
+
+Top 3 players in minutes:
+1. Karius Loris                                       : 90
+2. Fleck John                                         : 92
+3. Phillips Kalvin                                    : 93
+
+Top 3 players in minutes_90s:
+1. Fleck John                                         : 1.0
+2. Karius Loris                                       : 1.0
+3. Phillips Kalvin                                    : 1.0
+
+Top 3 players in goals:
+1. Aarons Max                                         : 0
+2. Adams Tyler                                        : 0
+3. Ahamada Naouirou                                   : 0
+
+Top 3 players in assists:
+1. Adams Tyler                                        : 0
+2. Adarabioyo Tosin                                   : 0
+3. Adebayo Elijah                                     : 0
+
+Top 3 players in goals_assists:
+1. Adams Tyler                                        : 0
+2. Ahamada Naouirou                                   : 0
+3. Alisson                                            : 0
+
+Top 3 players in goals_pens:
+1. Aarons Max                                         : 0
+2. Adams Tyler                                        : 0
+3. Ahamada Naouirou                                   : 0
+
+Top 3 players in pens_made:
+1. Aarons Max                                         : 0
+2. Adams Tyler                                        : 0
+3. Adarabioyo Tosin                                   : 0
+
+Top 3 players in pens_att:
+1. Aarons Max                                         : 0
+2. Adams Tyler                                        : 0
+3. Adarabioyo Tosin                                   : 0
+
+Top 3 players in cards_yellow:
+1. Adams Tyler                                        : 0
+2. Aké Nathan                                         : 0
+3. Bell Amari'i                                       : 0
+
+Top 3 players in cards_red:
+1. Aarons Max                                         : 0
+2. Adams Tyler                                        : 0
+3. Adarabioyo Tosin                                   : 0
+
+Top 3 players in xg:
+1. Aarons Max                                         : 0.0
+2. Adams Tyler                                        : 0.0
+3. Alisson                                            : 0.0
+
+Top 3 players in npxg:
+1. Aarons Max                                         : 0.0
+2. Adams Tyler                                        : 0.0
+3. Alisson                                            : 0.0
+
+Top 3 players in xg_assist:
+1. Ahamada Naouirou                                   : 0.0
+2. Alisson                                            : 0.0
+3. Anthony Jaidon                                     : 0.0
+
+Top 3 players in npxg_xg_assist:
+1. Alisson                                            : 0.0
+2. Areola Alphonse                                    : 0.0
+3. Bentley Daniel                                     : 0.0
+
+Top 3 players in progressive_carries:
+1. Alisson                                            : 0
+2. Areola Alphonse                                    : 0
+3. Bentley Daniel                                     : 0
+
+Top 3 players in progressive_passes:
+1. Bentley Daniel                                     : 0
+2. Dúbravka Martin                                    : 0
+3. Foderingham Wes                                    : 0
+
+Top 3 players in progressive_passes_received:
+1. Alisson                                            : 0
+2. Areola Alphonse                                    : 0
+3. Bentley Daniel                                     : 0
+
+Top 3 players in goals_per90:
+1. Aarons Max                                         : 0.0
+2. Adams Tyler                                        : 0.0
+3. Ahamada Naouirou                                   : 0.0
+
+Top 3 players in assists_per90:
+1. Adams Tyler                                        : 0.0
+2. Adarabioyo Tosin                                   : 0.0
+3. Adebayo Elijah                                     : 0.0
+
+Top 3 players in goals_assists_per90:
+1. Adams Tyler                                        : 0.0
+2. Ahamada Naouirou                                   : 0.0
+3. Alisson                                            : 0.0
+
+Top 3 players in goals_pens_per90:
+1. Aarons Max                                         : 0.0
+2. Adams Tyler                                        : 0.0
+3. Ahamada Naouirou                                   : 0.0
+
+Top 3 players in goals_assists_pens_per90:
+1. Adams Tyler                                        : 0.0
+2. Ahamada Naouirou                                   : 0.0
+3. Alisson                                            : 0.0
+
+Top 3 players in xg_per90:
+1. Aarons Max                                         : 0.0
+2. Adams Tyler                                        : 0.0
+3. Alisson                                            : 0.0
+
+Top 3 players in xg_assist_per90:
+1. Alisson                                            : 0.0
+2. Anthony Jaidon                                     : 0.0
+3. Areola Alphonse                                    : 0.0
+
+Top 3 players in xg_xg_assist_per90:
+1. Alisson                                            : 0.0
+2. Areola Alphonse                                    : 0.0
+3. Bentley Daniel                                     : 0.0
+
+Top 3 players in npxg_per90:
+1. Aarons Max                                         : 0.0
+2. Adams Tyler                                        : 0.0
+3. Alisson                                            : 0.0
+
+Top 3 players in npxg_xg_assist_per90:
+1. Alisson                                            : 0.0
+2. Areola Alphonse                                    : 0.0
+3. Bentley Daniel                                     : 0.0
+
+Top 3 players in gk_games:
+1. Karius Loris                                       : 1
+2. Fabiański Łukasz                                   : 10
+3. Kelleher Caoimhín                                  : 10
+
+Top 3 players in gk_games_starts:
+1. Karius Loris                                       : 1
+2. Strakosha Thomas                                   : 1
+3. Kelleher Caoimhín                                  : 10
+
+Top 3 players in gk_minutes:
+1. Pope Nick                                          : 1345
+2. Strakosha Thomas                                   : 135
+3. Sánchez Robert                                     : 1433
+
+Top 3 players in gk_goals_against:
+1. Kelleher Caoimhín                                  : 11
+2. Vlachodimos Odisseas                               : 12
+3. Olsen Robin                                        : 13
+
+Top 3 players in gk_goals_against_per90:
+1. Raya David                                         : 0.75
+2. Ramsdale Aaron                                     : 0.83
+3. Ederson                                            : 0.87
+
+Top 3 players in gk_shots_on_target_against:
+1. Petrović Đorđe                                     : 108
+2. Alisson                                            : 109
+3. Radu Ionuț                                         : 11
+
+Top 3 players in gk_saves:
+1. Vlachodimos Odisseas                               : 10
+2. Trafford James                                     : 106
+3. Vicario Guglielmo                                  : 109
+
+Top 3 players in gk_save_pct:
+1. Radu Ionuț                                         : 36.4
+2. Karius Loris                                       : 42.9
+3. Vlachodimos Odisseas                               : 50.0
+
+Top 3 players in gk_wins:
+1. Grbić Ivo                                          : 0
+2. Karius Loris                                       : 0
+3. Strakosha Thomas                                   : 0
+
+Top 3 players in gk_ties:
+1. Bentley Daniel                                     : 0
+2. Karius Loris                                       : 0
+3. Olsen Robin                                        : 0
+
+Top 3 players in gk_losses:
+1. Kelleher Caoimhín                                  : 0
+2. Ortega Stefan                                      : 0
+3. Ramsdale Aaron                                     : 0
+
+Top 3 players in gk_clean_sheets:
+1. Grbić Ivo                                          : 0
+2. Karius Loris                                       : 0
+3. Muric Arijanet                                     : 0
+
+Top 3 players in gk_clean_sheets_pct:
+1. Grbić Ivo                                          : 0.0
+2. Karius Loris                                       : 0.0
+3. Muric Arijanet                                     : 0.0
+
+Top 3 players in gk_pens_att:
+1. Bentley Daniel                                     : 0
+2. Karius Loris                                       : 0
+3. Kelleher Caoimhín                                  : 0
+
+Top 3 players in gk_pens_allowed:
+1. Bentley Daniel                                     : 0
+2. Grbić Ivo                                          : 0
+3. Karius Loris                                       : 0
+
+Top 3 players in gk_pens_saved:
+1. Alisson                                            : 0
+2. Bentley Daniel                                     : 0
+3. Ederson                                            : 0
+
+Top 3 players in gk_pens_missed:
+1. Alisson                                            : 0
+2. Areola Alphonse                                    : 0
+3. Bentley Daniel                                     : 0
+
+Top 3 players in gk_pens_save_pct:
+1. Alisson                                            : 0.0
+2. Ederson                                            : 0.0
+3. Fabiański Łukasz                                   : 0.0
+
+Top 3 players in shots:
+1. Adams Tyler                                        : 0
+2. Alisson                                            : 0
+3. Areola Alphonse                                    : 0
+
+Top 3 players in shots_on_target:
+1. Aarons Max                                         : 0
+2. Adams Tyler                                        : 0
+3. Alisson                                            : 0
+
+Top 3 players in shots_on_target_pct:
+1. Aarons Max                                         : 0.0
+2. Amrabat Sofyan                                     : 0.0
+3. Baldock George                                     : 0.0
+
+Top 3 players in shots_per90:
+1. Adams Tyler                                        : 0.0
+2. Alisson                                            : 0.0
+3. Areola Alphonse                                    : 0.0
+
+Top 3 players in shots_on_target_per90:
+1. Aarons Max                                         : 0.0
+2. Adams Tyler                                        : 0.0
+3. Alisson                                            : 0.0
+
+Top 3 players in goals_per_shot:
+1. Aarons Max                                         : 0.00
+2. Ahamada Naouirou                                   : 0.00
+3. Amrabat Sofyan                                     : 0.00
+
+Top 3 players in goals_per_shot_on_target:
+1. Ahamada Naouirou                                   : 0.00
+2. Anderson Elliot                                    : 0.00
+3. Anthony Jaidon                                     : 0.00
+
+Top 3 players in average_shot_distance:
+1. Ream Tim                                           : 1.3
+2. Richards Chris                                     : 10.0
+3. Bassey Calvin                                      : 10.1
+
+Top 3 players in shots_free_kicks:
+1. Aarons Max                                         : 0
+2. Adams Tyler                                        : 0
+3. Adarabioyo Tosin                                   : 0
+
+Top 3 players in npxg_per_shot:
+1. Aarons Max                                         : 0.02
+2. Aina Ola                                           : 0.02
+3. Amrabat Sofyan                                     : 0.02
+
+Top 3 players in xg_net:
+1. Calvert-Lewin Dominic                              : -5.9
+2. Núñez Darwin                                       : -5.3
+3. Jackson Nicolas                                    : -4.6
+
+Top 3 players in npxg_net:
+1. Calvert-Lewin Dominic                              : -6.4
+2. Jackson Nicolas                                    : -4.6
+3. Núñez Darwin                                       : -4.5
+
+Top 3 players in passes_completed:
+1. Chiwome Leon                                       : 19
+2. Karius Loris                                       : 21
+3. Maupay Neal                                        : 22
+
+Top 3 players in passes:
+1. Chiwome Leon                                       : 22
+2. Maupay Neal                                        : 26
+3. Karius Loris                                       : 37
+
+Top 3 players in passes_pct:
+1. Grbić Ivo                                          : 49.7
+2. Osula William                                      : 52.7
+3. Toney Ivan                                         : 53.5
+
+Top 3 players in passes_total_distance:
+1. Chiwome Leon                                       : 244
+2. Moore Kieffer                                      : 272
+3. Maupay Neal                                        : 353
+
+Top 3 players in passes_progressive_distance:
+1. Maupay Neal                                        : 14
+2. Fraser Nathan                                      : 45
+3. Chiwome Leon                                       : 59
+
+Top 3 players in passes_completed_short:
+1. Karius Loris                                       : 4
+2. Strakosha Thomas                                   : 6
+3. Travers Mark                                       : 10
+
+Top 3 players in passes_short:
+1. Karius Loris                                       : 4
+2. Strakosha Thomas                                   : 6
+3. Travers Mark                                       : 10
+
+Top 3 players in passes_pct_short:
+1. Osula William                                      : 58.9
+2. Chermiti Youssef                                   : 59.4
+3. Toney Ivan                                         : 61.6
+
+Top 3 players in passes_completed_medium:
+1. Moore Kieffer                                      : 4
+2. Chiwome Leon                                       : 6
+3. Cornet Maxwel                                      : 6
+
+Top 3 players in passes_medium:
+1. Chiwome Leon                                       : 6
+2. Cornet Maxwel                                      : 8
+3. Moore Kieffer                                      : 8
+
+Top 3 players in passes_pct_medium:
+1. Osula William                                      : 40.0
+2. Brewster Rhian                                     : 45.5
+3. Calvert-Lewin Dominic                              : 49.5
+
+Top 3 players in passes_completed_long:
+1. Cornet Maxwel                                      : 0
+2. Fraser Nathan                                      : 0
+3. Iroegbunam Tim                                     : 0
+
+Top 3 players in passes_long:
+1. Fraser Nathan                                      : 0
+2. Iroegbunam Tim                                     : 0
+3. Moore Kieffer                                      : 0
+
+Top 3 players in passes_pct_long:
+1. Cornet Maxwel                                      : 0.0
+2. Bobb Oscar                                         : 100.0
+3. Chermiti Youssef                                   : 100.0
+
+Top 3 players in pass_xa:
+1. Adams Tyler                                        : 0.0
+2. Alisson                                            : 0.0
+3. Anthony Jaidon                                     : 0.0
+
+Top 3 players in xg_assist_net:
+1. Kulusevski Dejan                                   : -4.7
+2. Fernandes Bruno                                    : -3.8
+3. Szoboszlai Dominik                                 : -3.8
+
+Top 3 players in assisted_shots:
+1. Anthony Jaidon                                     : 0
+2. Areola Alphonse                                    : 0
+3. Bentley Daniel                                     : 0
+
+Top 3 players in passes_into_final_third:
+1. Cornet Maxwel                                      : 0
+2. Dobbin Lewis                                       : 0
+3. Fraser Nathan                                      : 0
+
+Top 3 players in passes_into_penalty_area:
+1. Adams Tyler                                        : 0
+2. Ahamada Naouirou                                   : 0
+3. Alisson                                            : 0
+
+Top 3 players in crosses_into_penalty_area:
+1. Adams Tyler                                        : 0
+2. Adarabioyo Tosin                                   : 0
+3. Adebayo Elijah                                     : 0
+
+Top 3 players in passes_live:
+1. Chiwome Leon                                       : 18
+2. Maupay Neal                                        : 23
+3. Karius Loris                                       : 24
+
+Top 3 players in passes_dead:
+1. Chambers Calum                                     : 0
+2. Chukwuemeka Carney                                 : 0
+3. Dendoncker Leander                                 : 0
+
+Top 3 players in passes_free_kicks:
+1. Adebayo Elijah                                     : 0
+2. Awoniyi Taiwo                                      : 0
+3. Baptiste Shandon                                   : 0
+
+Top 3 players in through_balls:
+1. Adams Tyler                                        : 0
+2. Ahamada Naouirou                                   : 0
+3. Alisson                                            : 0
+
+Top 3 players in passes_switches:
+1. Adebayo Elijah                                     : 0
+2. Ahamada Naouirou                                   : 0
+3. Almirón Miguel                                     : 0
+
+Top 3 players in crosses:
+1. Alisson                                            : 0
+2. Areola Alphonse                                    : 0
+3. Baleba Carlos                                      : 0
+
+Top 3 players in throw_ins:
+1. Alisson                                            : 0
+2. Amdouni Zeki                                       : 0
+3. Anthony Jaidon                                     : 0
+
+Top 3 players in corner_kicks:
+1. Aarons Max                                         : 0
+2. Adams Tyler                                        : 0
+3. Adarabioyo Tosin                                   : 0
+
+Top 3 players in corner_kicks_in:
+1. Aarons Max                                         : 0
+2. Adams Tyler                                        : 0
+3. Adarabioyo Tosin                                   : 0
+
+Top 3 players in corner_kicks_out:
+1. Aarons Max                                         : 0
+2. Adams Tyler                                        : 0
+3. Adarabioyo Tosin                                   : 0
+
+Top 3 players in corner_kicks_straight:
+1. Aarons Max                                         : 0
+2. Adams Tyler                                        : 0
+3. Adarabioyo Tosin                                   : 0
+
+Top 3 players in passes_offsides:
+1. Adams Tyler                                        : 0
+2. Ahamada Naouirou                                   : 0
+3. Anderson Elliot                                    : 0
+
+Top 3 players in passes_blocked:
+1. Adams Tyler                                        : 0
+2. Areola Alphonse                                    : 0
+3. Bentley Daniel                                     : 0
+
+Top 3 players in sca:
+1. Dúbravka Martin                                    : 0
+2. Iroegbunam Tim                                     : 0
+3. Juel Andersen Mads                                 : 0
+
+Top 3 players in sca_per90:
+1. Dúbravka Martin                                    : 0.0
+2. Iroegbunam Tim                                     : 0.0
+3. Juel Andersen Mads                                 : 0.0
+
+Top 3 players in sca_passes_live:
+1. Dúbravka Martin                                    : 0
+2. Egan John                                          : 0
+3. Iroegbunam Tim                                     : 0
+
+Top 3 players in sca_passes_dead:
+1. Adarabioyo Tosin                                   : 0
+2. Adebayo Elijah                                     : 0
+3. Ahamada Naouirou                                   : 0
+
+Top 3 players in sca_take_ons:
+1. Aarons Max                                         : 0
+2. Adams Tyler                                        : 0
+3. Adarabioyo Tosin                                   : 0
+
+Top 3 players in sca_shots:
+1. Aarons Max                                         : 0
+2. Adams Tyler                                        : 0
+3. Ahamada Naouirou                                   : 0
+
+Top 3 players in sca_fouled:
+1. Adams Tyler                                        : 0
+2. Adarabioyo Tosin                                   : 0
+3. Aguerd Nayef                                       : 0
+
+Top 3 players in sca_defense:
+1. Aarons Max                                         : 0
+2. Adams Tyler                                        : 0
+3. Adarabioyo Tosin                                   : 0
+
+Top 3 players in gca:
+1. Adams Tyler                                        : 0
+2. Adarabioyo Tosin                                   : 0
+3. Aguerd Nayef                                       : 0
+
+Top 3 players in gca_per90:
+1. Adams Tyler                                        : 0.0
+2. Adarabioyo Tosin                                   : 0.0
+3. Aguerd Nayef                                       : 0.0
+
+Top 3 players in gca_passes_live:
+1. Adams Tyler                                        : 0
+2. Adarabioyo Tosin                                   : 0
+3. Aguerd Nayef                                       : 0
+
+Top 3 players in gca_passes_dead:
+1. Aarons Max                                         : 0
+2. Adams Tyler                                        : 0
+3. Adarabioyo Tosin                                   : 0
+
+Top 3 players in gca_take_ons:
+1. Aarons Max                                         : 0
+2. Adams Tyler                                        : 0
+3. Adarabioyo Tosin                                   : 0
+
+Top 3 players in gca_shots:
+1. Aarons Max                                         : 0
+2. Adams Tyler                                        : 0
+3. Adarabioyo Tosin                                   : 0
+
+Top 3 players in gca_fouled:
+1. Aarons Max                                         : 0
+2. Adams Tyler                                        : 0
+3. Adarabioyo Tosin                                   : 0
+
+Top 3 players in gca_defense:
+1. Aarons Max                                         : 0
+2. Adams Tyler                                        : 0
+3. Adarabioyo Tosin                                   : 0
+
+Top 3 players in tackles:
+1. Alisson                                            : 0
+2. Bentley Daniel                                     : 0
+3. Dúbravka Martin                                    : 0
+
+Top 3 players in tackles_won:
+1. Alisson                                            : 0
+2. Bentley Daniel                                     : 0
+3. Chambers Calum                                     : 0
+
+Top 3 players in tackles_def_3rd:
+1. Alisson                                            : 0
+2. Bentley Daniel                                     : 0
+3. Chiwome Leon                                       : 0
+
+Top 3 players in tackles_mid_3rd:
+1. Adebayo Elijah                                     : 0
+2. Alisson                                            : 0
+3. Anthony Jaidon                                     : 0
+
+Top 3 players in tackles_att_3rd:
+1. Adams Tyler                                        : 0
+2. Adarabioyo Tosin                                   : 0
+3. Aguerd Nayef                                       : 0
+
+Top 3 players in challenge_tackles:
+1. Alisson                                            : 0
+2. Bentley Daniel                                     : 0
+3. Brewster Rhian                                     : 0
+
+Top 3 players in challenges:
+1. Karius Loris                                       : 0
+2. Kelleher Caoimhín                                  : 0
+3. Leno Bernd                                         : 0
+
+Top 3 players in challenge_tackles_pct:
+1. Alisson                                            : 0.0
+2. Bentley Daniel                                     : 0.0
+3. Brewster Rhian                                     : 0.0
+
+Top 3 players in challenges_lost:
+1. Dier Eric                                          : 0
+2. Drăgușin Radu                                      : 0
+3. Hickey Aaron                                       : 0
+
+Top 3 players in blocks:
+1. Alisson                                            : 0
+2. Areola Alphonse                                    : 0
+3. Bentley Daniel                                     : 0
+
+Top 3 players in blocked_shots:
+1. Adams Tyler                                        : 0
+2. Ahamada Naouirou                                   : 0
+3. Alisson                                            : 0
+
+Top 3 players in blocked_passes:
+1. Alisson                                            : 0
+2. Areola Alphonse                                    : 0
+3. Bentley Daniel                                     : 0
+
+Top 3 players in interceptions:
+1. Alisson                                            : 0
+2. Bentley Daniel                                     : 0
+3. Berry Luke                                         : 0
+
+Top 3 players in tackles_interceptions:
+1. Alisson                                            : 0
+2. Bentley Daniel                                     : 0
+3. Dúbravka Martin                                    : 0
+
+Top 3 players in clearances:
+1. Chirewa Tawanda                                    : 0
+2. Danjuma Arnaut                                     : 0
+3. Dobbin Lewis                                       : 0
+
+Top 3 players in errors:
+1. Aarons Max                                         : 0
+2. Adams Tyler                                        : 0
+3. Adarabioyo Tosin                                   : 0
+
+Top 3 players in touches:
+1. Chiwome Leon                                       : 39
+2. Maupay Neal                                        : 40
+3. Karius Loris                                       : 41
+
+Top 3 players in touches_def_pen_area:
+1. Dobbin Lewis                                       : 0
+2. Manuel Benson                                      : 0
+3. Moore Kieffer                                      : 0
+
+Top 3 players in touches_def_3rd:
+1. Maupay Neal                                        : 1
+2. Moore Kieffer                                      : 2
+3. Chiwome Leon                                       : 5
+
+Top 3 players in touches_mid_3rd:
+1. Henderson Dean                                     : 0
+2. Karius Loris                                       : 0
+3. Radu Ionuț                                         : 0
+
+Top 3 players in touches_att_3rd:
+1. Alisson                                            : 0
+2. Areola Alphonse                                    : 0
+3. Bentley Daniel                                     : 0
+
+Top 3 players in touches_att_pen_area:
+1. Alisson                                            : 0
+2. Areola Alphonse                                    : 0
+3. Bentley Daniel                                     : 0
+
+Top 3 players in touches_live_ball:
+1. Chiwome Leon                                       : 39
+2. Maupay Neal                                        : 40
+3. Karius Loris                                       : 41
+
+Top 3 players in take_ons:
+1. Alisson                                            : 0
+2. Bentley Daniel                                     : 0
+3. Chiwome Leon                                       : 0
+
+Top 3 players in take_ons_won:
+1. Alisson                                            : 0
+2. Badiashile Benoît                                  : 0
+3. Bentley Daniel                                     : 0
+
+Top 3 players in take_ons_won_pct:
+1. Badiashile Benoît                                  : 0.0
+2. Botman Sven                                        : 0.0
+3. Brewster Rhian                                     : 0.0
+
+Top 3 players in take_ons_tackled:
+1. Adams Tyler                                        : 0
+2. Adarabioyo Tosin                                   : 0
+3. Alisson                                            : 0
+
+Top 3 players in take_ons_tackled_pct:
+1. Adams Tyler                                        : 0.0
+2. Adarabioyo Tosin                                   : 0.0
+3. Areola Alphonse                                    : 0.0
+
+Top 3 players in carries:
+1. Chiwome Leon                                       : 16
+2. Karius Loris                                       : 17
+3. Fleck John                                         : 19
+
+Top 3 players in carries_distance:
+1. Karius Loris                                       : 57
+2. Fleck John                                         : 81
+3. Chiwome Leon                                       : 86
+
+Top 3 players in carries_progressive_distance:
+1. Fraser Nathan                                      : 22
+2. Karius Loris                                       : 25
+3. Dendoncker Leander                                 : 27
+
+Top 3 players in carries_into_final_third:
+1. Alisson                                            : 0
+2. Bentley Daniel                                     : 0
+3. Chambers Calum                                     : 0
+
+Top 3 players in carries_into_penalty_area:
+1. Aguerd Nayef                                       : 0
+2. Alisson                                            : 0
+3. Amrabat Sofyan                                     : 0
+
+Top 3 players in miscontrols:
+1. Areola Alphonse                                    : 0
+2. Bentley Daniel                                     : 0
+3. Chambers Calum                                     : 0
+
+Top 3 players in dispossessed:
+1. Adams Tyler                                        : 0
+2. Alisson                                            : 0
+3. Areola Alphonse                                    : 0
+
+Top 3 players in passes_received:
+1. Karius Loris                                       : 15
+2. Chiwome Leon                                       : 18
+3. Fleck John                                         : 27
+
+Top 3 players in minutes_per_game:
+1. Ritchie Matt                                       : 10
+2. Chermiti Youssef                                   : 12
+3. Redmond Nathan                                     : 12
+
+Top 3 players in minutes_pct:
+1. Karius Loris                                       : 2.6
+2. Fleck John                                         : 2.7
+3. Phillips Kalvin                                    : 2.7
+
+Top 3 players in minutes_per_start:
+1. Norrington-Davies Rhys                             : 27
+2. Davies Tom                                         : 45
+3. Fleck John                                         : 45
+
+Top 3 players in games_complete:
+1. Ahamada Naouirou                                   : 0
+2. Anthony Jaidon                                     : 0
+3. Baptiste Shandon                                   : 0
+
+Top 3 players in games_subs:
+1. Aguerd Nayef                                       : 0
+2. Alisson                                            : 0
+3. Andersen Joachim                                   : 0
+
+Top 3 players in minutes_per_sub:
+1. Godfrey Ben                                        : 1
+2. Mee Ben                                            : 1
+3. Pinnock Ethan                                      : 1
+
+Top 3 players in unused_subs:
+1. Adebayo Elijah                                     : 0
+2. Ahmedhodžić Anel                                   : 0
+3. Alexander-Arnold Trent                             : 0
+
+Top 3 players in points_per_game:
+1. Fleck John                                         : 0.0
+2. Karius Loris                                       : 0.0
+3. Maupay Neal                                        : 0.0
+
+Top 3 players in on_goals_for:
+1. Brewster Rhian                                     : 0
+2. Chirewa Tawanda                                    : 0
+3. Manuel Benson                                      : 0
+
+Top 3 players in on_goals_against:
+1. Mejbri Hannibal                                    : 1
+2. Nelson Reiss                                       : 1
+3. Perišić Ivan                                       : 1
+
+Top 3 players in plus_minus:
+1. Ahmedhodžić Anel                                   : -61
+2. Trusty Auston                                      : -59
+3. Foderingham Wes                                    : -55
+
+Top 3 players in plus_minus_per90:
+1. Norrington-Davies Rhys                             : -4.09
+2. Fleck John                                         : -3.91
+3. Manuel Benson                                      : -3.88
+
+Top 3 players in plus_minus_wowy:
+1. Amdouni Zeki                                       : +0.01
+2. Tsimikas Kostas                                    : +0.01
+3. Ven Micky van                                      : +0.01
+
+Top 3 players in on_xg_for:
+1. Karius Loris                                       : 0.2
+2. Manuel Benson                                      : 0.5
+3. Anthony Jaidon                                     : 0.6
+
+Top 3 players in on_xg_against:
+1. Adams Tyler                                        : 1.5
+2. Chirewa Tawanda                                    : 1.5
+3. Maupay Neal                                        : 1.5
+
+Top 3 players in xg_plus_minus:
+1. Kaminski Thomas                                    : -35.4
+2. Foderingham Wes                                    : -33.2
+3. Souza Vinicius                                     : -32.7
+
+Top 3 players in xg_plus_minus_per90:
+1. Manuel Benson                                      : -3.0
+2. Karius Loris                                       : -2.69
+3. Anthony Jaidon                                     : -2.27
+
+Top 3 players in xg_plus_minus_wowy:
+1. Ahmedhodžić Anel                                   : +0.01
+2. Jorginho                                           : +0.01
+3. Konaté Ibrahima                                    : +0.01
+
+Top 3 players in cards_yellow_red:
+1. Aarons Max                                         : 0
+2. Adams Tyler                                        : 0
+3. Adarabioyo Tosin                                   : 0
+
+Top 3 players in fouls:
+1. Adams Tyler                                        : 0
+2. Bentley Daniel                                     : 0
+3. Dier Eric                                          : 0
+
+Top 3 players in fouled:
+1. Baptiste Shandon                                   : 0
+2. Bentley Daniel                                     : 0
+3. Delcroix Hannes                                    : 0
+
+Top 3 players in offsides:
+1. Adams Tyler                                        : 0
+2. Adarabioyo Tosin                                   : 0
+3. Aguerd Nayef                                       : 0
+
+Top 3 players in pens_won:
+1. Aarons Max                                         : 0
+2. Adams Tyler                                        : 0
+3. Adarabioyo Tosin                                   : 0
+
+Top 3 players in pens_conceded:
+1. Adams Tyler                                        : 0
+2. Adarabioyo Tosin                                   : 0
+3. Adebayo Elijah                                     : 0
+
+Top 3 players in own_goals:
+1. Aarons Max                                         : 0
+2. Adams Tyler                                        : 0
+3. Adarabioyo Tosin                                   : 0
+
+Top 3 players in ball_recoveries:
+1. Karius Loris                                       : 0
+2. Radu Ionuț                                         : 0
+3. Strakosha Thomas                                   : 1
+
+Top 3 players in aerials_won:
+1. Cornet Maxwel                                      : 0
+2. Dahoud Mahmoud                                     : 0
+3. Doyle Tommy                                        : 0
+
+Top 3 players in aerials_lost:
+1. Bentley Daniel                                     : 0
+2. Dúbravka Martin                                    : 0
+3. Ederson                                            : 0
+
+Top 3 players in aerials_won_pct:
+1. Cornet Maxwel                                      : 0.0
+2. Dahoud Mahmoud                                     : 0.0
+3. Doyle Tommy                                        : 0.0
+
