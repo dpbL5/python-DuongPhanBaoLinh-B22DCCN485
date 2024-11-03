@@ -33,6 +33,7 @@ def find_optimal_clusters(data, max_k):
     plt.xlabel('Cluster Centers')
     plt.ylabel('SSE')
     plt.title('Elbow Method For Optimal k')
+    plt.savefig('./images/elbow.png')
     plt.show()
 
 find_optimal_clusters(data_scaled, 10)
@@ -51,10 +52,20 @@ data['pca2'] = data_pca[:, 1]
 plt.figure(figsize=(10, 8))
 sns.scatterplot(x='pca1', y='pca2', hue='cluster', data=data, palette='viridis')
 plt.title('K-means Clustering with PCA')
+plt.savefig('./images/cluster.png')
 plt.show()
 
 # Function to plot radar chart
 def radar_chart(player1, player2, attributes):
+    if player1 not in data['player'].values:
+        raise ValueError(f"Player {player1} not found in the dataset.")
+    if player2 not in data['player'].values:
+        raise ValueError(f"Player {player2} not found in the dataset.")
+    
+    for attr in attributes:
+        if attr not in data.columns:
+            raise ValueError(f"Attribute {attr} not found in the dataset.")
+    
     player1_data = data[data['player'] == player1][attributes].values.flatten().tolist()
     player2_data = data[data['player'] == player2][attributes].values.flatten().tolist()
     
@@ -66,7 +77,7 @@ def radar_chart(player1, player2, attributes):
     player2_data += player2_data[:1]
     angles += angles[:1]
     
-    fig, ax = plt.subplots(figsize=(6, 6), subplot_kw=dict(polar=True))
+    _, ax = plt.subplots(figsize=(6, 6), subplot_kw=dict(polar=True))
     ax.fill(angles, player1_data, color='blue', alpha=0.25)
     ax.fill(angles, player2_data, color='red', alpha=0.25)
     ax.plot(angles, player1_data, color='blue', linewidth=2, label=player1)
@@ -77,6 +88,7 @@ def radar_chart(player1, player2, attributes):
     ax.set_xticklabels(labels)
     
     plt.legend(loc='upper right', bbox_to_anchor=(0.1, 0.1))
+    # plt.savefig('./images/radar.png')
     plt.show()
 
 if __name__ == "__main__":

@@ -86,39 +86,39 @@ for team in sorted(teams):
 # row 1: median, mean, std of all players
 # row 2+: median, mean, std of each team
 dataframe = pd.DataFrame(tables, columns=headers)
-dataframe.to_csv('./output/result2.csv', index=True)
+dataframe.to_csv('./code/output/result2.csv', index=True)
 
 # =============================================================================================
 # Plotting histogram of each category for all players
 import matplotlib.pyplot as plt
 import os
 
-if not os.path.exists('../images'):
-    os.mkdir('../images/all')
+if not os.path.exists('./images'):
+    os.mkdir('./images/all')
 for category in categories:
     values = [float(player.stats[category]) for player in players if player.stats[category] != 'N/a']
     plt.hist(values, bins=20)
     plt.title('Histogram of ' + category)
     plt.xlabel(category)
     plt.ylabel('Frequency')
-    plt.savefig('../images/all/histogram_' + category + '.png')
+    plt.savefig('./images/all/histogram_' + category + '.png')
     plt.clf()
 
 for team in sorted(teams):
-    if not os.path.exists('../images/' + team):
-        os.mkdir('../images/' + team)
+    if not os.path.exists('./images/' + team):
+        os.mkdir('./images/' + team)
     for category in categories:
         values = [float(player.stats[category]) for player in players if player.stats['team'] == team and player.stats[category] != 'N/a']
         plt.hist(values, bins=20)
         plt.title('Histogram of ' + category + ' for ' + team)
         plt.xlabel(category)
         plt.ylabel('Frequency')
-        plt.savefig('../images/' + team  + '/histogram_' + team + '_' + category + '.png')
+        plt.savefig('./images/' + team  + '/histogram_' + team + '_' + category + '.png')
         plt.clf()
 
 # =============================================================================================
 # Find best team in each category
-f = open('./output/best_team_in_each_category.txt', 'w', encoding='utf-8')
+f = open('./code/output/best_team_in_each_category.txt', 'w', encoding='utf-8')
 f.write('Best team in each category:\n\n'.upper())
 freq = {}
 for category in categories:

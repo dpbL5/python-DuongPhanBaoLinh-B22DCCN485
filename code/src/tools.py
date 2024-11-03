@@ -13,11 +13,11 @@ class Scrapper:
         
     def scrap_and_export(self):
         
-        if not os.path.exists('./exports'):
-            os.makedirs('./exports')
+        if not os.path.exists('./code/exports'):
+            os.makedirs('./code/exports')
             
         for folder in self.folders:
-            html_export = open('./exports/' + folder + '.html', 'a', encoding='utf-8')
+            html_export = open('./code/exports/' + folder + '.html', 'a', encoding='utf-8')
             URL = self.url + '/' + folder + '/' + self.dest
             response = requests.get(URL).content
             soup = bs(response, 'lxml')
@@ -38,7 +38,7 @@ class Parser:
         # Get stats variables
         for category in self.folders:
         # for category in ['stats']:
-            source = open('./exports/' + category + '.html', 'r', encoding='utf-8')
+            source = open('./code/exports/' + category + '.html', 'r', encoding='utf-8')
             soup = bs(source, 'lxml')
             rows = soup.find_all('tr', limit=2) # only need the first two rows
             for cell in rows[1].find_all('th'):
@@ -51,7 +51,7 @@ class Parser:
         player_list = dict()
         for category in self.folders:
         # for category in ['shooting']:
-            source = open('./exports/' + category + '.html', 'r', encoding='utf-8')
+            source = open('./code/exports/' + category + '.html', 'r', encoding='utf-8')
             soup = bs(source, 'lxml')
             rows = soup.find_all('tr')[2:] # skip the first and second rows
             for row in rows:
@@ -88,10 +88,10 @@ class Parser:
     
     # export to csv
     def to_csv(self, player_list):
-        if not os.path.exists('./output'):
-            os.makedirs('./output')
+        if not os.path.exists('./code/output'):
+            os.makedirs('./code/output')
         player_list_data = []
         for player in player_list:
             player_list_data.append(list(player.stats.values()))
         data_frame = pd.DataFrame(player_list_data, columns=list(player_list[0].stats.keys()))
-        data_frame.to_csv('./output/result.csv', index=False)
+        data_frame.to_csv('./code/output/result.csv', index=False)
